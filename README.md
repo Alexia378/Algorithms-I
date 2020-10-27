@@ -1,2 +1,2 @@
 # Algorithms-I
-a Prinston course on coursera
+a Princeton course on coursera
